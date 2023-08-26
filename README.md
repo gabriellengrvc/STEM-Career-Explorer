@@ -1,5 +1,5 @@
 # STEM Career Explorer
-A website to explore different career fields in science, technology, engineering, math through women in STEM and learn about the influence of women in these fields.
+A website to explore different career fields in science, technology, engineering, math through women in STEM.
 
 - Educates about different STEM fields, with a focus on Physics, Computer Science and Engineering- three fields with the widest gender gap. 
 - Highlights inspiring and accomplished female role models in their respective fields.
